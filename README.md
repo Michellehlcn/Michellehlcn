@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michellehlcn
 - 👀 I’m interested in buidling applications, devOps.
-- 🌱 I’m currently practicing as a software engineer and freelancer 
+- 🌱 I’m currently practicing as a software engineer freelancer, self-employed at the moment 
 - 💞️ I’m looking to collaborate on projects which I can add up the value and further ideas
 - 📫 How to reach me: please shoot me a message via email michellehlcn.au@gmail.com
 
