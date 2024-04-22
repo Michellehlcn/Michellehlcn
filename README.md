@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Michellehlcn
-- 👀 I’m interested in buidling applications, devOps, flutter.
-- 🌱 I’m currently practicing as a software engineer freelancer, self-employed at the moment 
+- 👋 Hi, My name is @Michellehlcn
+- 👀 I am a Software Engineer focusing on infrastructure, platforms, Linux, open source software, DevOps, distributed computing (Kubernetes), containerization, and the cloud. 
+- 🌱 I have worked in many different languages and platforms but currently that is primarily Python, Javascript, Java and shell scripting. My non-computer passions are running, swimming, and drawing. 
 - 💞️ I’m looking to collaborate on projects which I can add up the value and further ideas
-- 📫 How to reach me: please shoot me a message via email michellehlcn.au@gmail.com
+- 📫 Reach out to me (email address below) if you have any questions about these types of things, or just want to chat! michellehlcn.au@gmail.com
 
 <!---
 Michellehlcn/Michellehlcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
